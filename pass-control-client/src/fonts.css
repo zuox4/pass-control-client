@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'Codec-Pro';
+	src: url('./fonts/CodecPro-ExtraBold.ttf') format('truetype');
+	font-weight: 900; /* Черный вес (Black) */
+	font-style: normal; /* Всегда normal для обычного начертания */
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Codec-Pro';
+	src: url('./fonts/CodecPro-Bold.ttf') format('truetype');
+	font-weight: 700; /* Жирный (Bold) */
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Codec-Pro';
+	src: url('./fonts/CodecPro-Regular.ttf') format('truetype');
+	font-weight: 400; /* Обычный (Normal) */
+	font-style: normal;
+	font-display: swap;
+}
